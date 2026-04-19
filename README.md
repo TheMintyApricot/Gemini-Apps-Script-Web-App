@@ -23,7 +23,7 @@ Come back to this repository, and copy the code from "Index.html" to your clipbo
 Rename the HTML file you created in the Apps Script to "Index.html" just like the name of the file containing the code you copied. Then, delete everything within the file and paste the code you got from this repo.
 <img width="1560" height="943" alt="image" src="https://github.com/user-attachments/assets/919ddf3f-e93e-4cc3-b519-9a463e3a62e4" />
 ### Step 7:
-Go back to Code.js (the one in your script) and replace "PASTE_YOUR_GEMINI_API_KEY_HERE" with your Gemini API Key. To get an API Key, follow this [https://www.youtube.com/shorts/Tvl0hlj_aG4](tutorial). Remember to click Ctrl+S to Save.
+Go back to Code.js (the one in your script) and replace "PASTE_YOUR_GEMINI_API_KEY_HERE" with your Gemini API Key. To get an API Key, follow this [tutorial](https://www.youtube.com/shorts/Tvl0hlj_aG4). Remember to click Ctrl+S to Save.
 <img width="1184" height="501" alt="image" src="https://github.com/user-attachments/assets/4cd79243-e52d-4a11-a032-eb1e6254c645" />
 ### Step 8:
 Select "Deploy" -> "New Deployment -> Gear Icon -> "Web App" -> Manage access as you wish -> Deploy -> Copy Web App URL.
